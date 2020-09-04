@@ -9,7 +9,7 @@ Reasons why you might want to follow suit - https://blog.usejournal.com/consider
 
 Note: It's against the rules to share the code for Project Euler challanges past #100 so make sure you're only adding solutions to the allowed problems in your repo.
 
-I've also made the code more intuitive by adding unit tests for all solutions. 
+I've also made the code more intuitive by adding unit tests for all solutions. One way to test your code without just blindly copying the solution would be to apply the unit test to your code to see if it matches.
 
 A good benchmark to set for yourself would be to aim to solve these in less than 30 minutes without the aid of the internet (including this repo) as much as possible.
 
