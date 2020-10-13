@@ -1,0 +1,23 @@
+{
+  "name": "project-euler-js",
+  "version": "1.0.0",
+  "description": "These are the JavaScript solutions to the Project Euler questions available on https://projecteuler.net/",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hellosurbhi/project-euler-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hellosurbhi/project-euler-js/issues"
+  },
+  "homepage": "https://github.com/hellosurbhi/project-euler-js#readme",
+  "dependencies": {
+    "jest": "^26.5.3"
+  }
+}
